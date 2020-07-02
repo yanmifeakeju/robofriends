@@ -3,7 +3,7 @@
 # dependencies
 
 /node_modules
-/src/extra
+/extra
 /.pnp
 .pnp.js
 
